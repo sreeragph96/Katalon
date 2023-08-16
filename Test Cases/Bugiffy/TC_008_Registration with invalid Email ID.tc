@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_008_Registration with invalid Email ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfc3a9b2-67f7-42d6-afae-60ce413f2314</testCaseGuid>
+</TestCaseEntity>

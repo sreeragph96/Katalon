@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_09-August-2023</name>
+   <tag></tag>
+   <elementGuidId>733f0ac9-0df5-4e76-a118-439f3dcae944</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div[5]/div[2]/div[2]/table/tbody/tr[2]/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td:nth-of-type(5)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ba09f7da-7036-4ed5-a1d5-23d0e2ac9995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 09-August-2023</value>
+      <webElementGuid>dc56a319-8f47-4f3c-bc82-feba8b878eef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main_wrapper&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;mainSection&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card my-4 bg-transparent&quot;]/div[@class=&quot;main_board&quot;]/div[@class=&quot;leftBoard&quot;]/div[@class=&quot;tableDashboard&quot;]/div[@class=&quot;tableMain&quot;]/div[@class=&quot;table-responsive p-0&quot;]/table[@class=&quot;table align-items-center mb-0&quot;]/tbody[1]/tr[2]/td[5]</value>
+      <webElementGuid>662746f2-a232-4862-8c25-8db2380d19f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div[5]/div[2]/div[2]/table/tbody/tr[2]/td[5]</value>
+      <webElementGuid>6696abdc-3d07-4dcf-ba70-a209ad74468d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='09-August-2023']/parent::*</value>
+      <webElementGuid>f63c2607-09b9-4e66-a2c6-a9cdde2b966a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]</value>
+      <webElementGuid>018af30a-59d3-45ed-aa0c-d715f09c3817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' 09-August-2023' or . = ' 09-August-2023')]</value>
+      <webElementGuid>f705a9f6-aeea-470d-83b7-213acb9777b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

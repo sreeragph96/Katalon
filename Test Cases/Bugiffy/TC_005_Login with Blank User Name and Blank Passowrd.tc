@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_005_Login with Blank User Name and Blank Passowrd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c12f9ba4-2a50-4edc-a8a5-5f4a4577ea66</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Xilligence Pvt. Ltd</name>
+   <tag></tag>
+   <elementGuidId>144f9d7b-61f9-4c8f-b9ad-556459e680a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div/div[2]/div[3]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>30e2d9f5-93fb-47eb-a5c3-327b935be7bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>dc521bc4-a09a-45a7-956f-c441ad54b29d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xilligence Pvt. Ltd.</value>
+      <webElementGuid>65111560-0375-4087-ac37-22a94035116e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main_wrapper&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;mainSection&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;bodywrapper mt-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-div form-div-darkmode col-xl-6 col-md-6 col-sm-7 pt-3&quot;]/div[@class=&quot;row tag_formLabel&quot;]/div[@class=&quot;col-sm-8 col-xl-9&quot;]/select[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>8c4200f6-2fc5-40fa-a45e-73f57b340826</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div/div[2]/div[3]/div/select</value>
+      <webElementGuid>e4e950cd-3229-4516-ace9-c85d4a01098b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>6668518b-a394-4155-b7a7-7b57efeb79f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::select[1]</value>
+      <webElementGuid>271c48cc-e0fa-4c4d-a0f1-3aa999259369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>87f661ff-68fd-4a39-93da-1fe02f132d38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Xilligence Pvt. Ltd.' or . = 'Xilligence Pvt. Ltd.')]</value>
+      <webElementGuid>fb0796e5-7b40-486c-bb17-bc8ec11f804c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

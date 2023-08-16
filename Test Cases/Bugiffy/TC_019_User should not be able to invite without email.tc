@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_019_User should not be able to invite without email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7d93689-47f0-4360-a3f7-09cd93aa6d4b</testCaseGuid>
+</TestCaseEntity>

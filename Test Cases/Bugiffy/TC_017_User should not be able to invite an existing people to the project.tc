@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_017_User should not be able to invite an existing people to the project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc754cd0-5b95-49ad-a8c4-6e248d23c126</testCaseGuid>
+</TestCaseEntity>

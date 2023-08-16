@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Backlog(1  issues)</name>
+   <tag></tag>
+   <elementGuidId>9e1500a3-1ada-44d0-bb31-23a76e89f822</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[3]/div[2]/div[2]/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.accordionBacklog</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b4c91466-23bd-4de9-965c-adc16c2c8774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordionBacklog</value>
+      <webElementGuid>6aad2f51-c2b2-40d0-8075-95cf475e7c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Backlog(1  issues)</value>
+      <webElementGuid>6ec29fc7-2245-4f26-a721-86703b1ca6eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main_wrapper&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;mainSection&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-md-12&quot;]/div[@class=&quot;main-accordion-wrapper&quot;]/div[1]/div[@class=&quot;accordion&quot;]/h2[@class=&quot;accordionBacklog&quot;]</value>
+      <webElementGuid>97631aa8-2aa5-4398-9f92-645f0bdc12f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[3]/div[2]/div[2]/div/div/h2</value>
+      <webElementGuid>a6697612-fa73-4812-aedd-050f145fa644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Epic'])[1]/following::h2[1]</value>
+      <webElementGuid>bf3b19a3-9417-4869-a0c1-75fef480fbc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::h2[1]</value>
+      <webElementGuid>1adfac25-aacb-44d2-8851-38f5607ce408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>37a74212-c2c5-43c8-ab5b-10ac10c0ea03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Backlog(1  issues)' or . = 'Backlog(1  issues)')]</value>
+      <webElementGuid>49411dac-f591-4bab-b7c0-46e9627ce90a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_new status</name>
+   <tag></tag>
+   <elementGuidId>6a65784c-d951-46dc-9a10-1b0be3e3acc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='Heading-3']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Heading-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f8915f20-7e38-4b26-9c0e-938f6cd2f80b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Heading-3</value>
+      <webElementGuid>3abbbe4a-f2cb-4f5d-84e1-37f0ae0b15e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>new status </value>
+      <webElementGuid>b6f9617d-fc0a-4f7f-95b4-754e1e69845f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Heading-3&quot;)</value>
+      <webElementGuid>3a1c7c95-1d7a-43ee-8df1-11fe373186c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='Heading-3']</value>
+      <webElementGuid>ad1ebf11-ed0e-4fbe-a61d-3a6aadc47b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[4]/div/div[4]/div/span</value>
+      <webElementGuid>6f4bf1bd-0efe-44eb-8525-8cb67f16bd89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMPLETED'])[1]/following::span[3]</value>
+      <webElementGuid>b7e1ba03-2e44-486c-8328-3a671fc1e2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IN PROGRESS'])[1]/following::span[6]</value>
+      <webElementGuid>7a903b50-6dc7-453c-9991-42ca15689c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'Heading-3', '&quot;', ')')])[1]/preceding::span[4]</value>
+      <webElementGuid>bd7938cb-ba79-4173-9bdd-97b85c291ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='new status']/parent::*</value>
+      <webElementGuid>1ee80346-0ef1-4ca9-9e5b-10789bed350f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[4]/div/span</value>
+      <webElementGuid>730c2eaf-f5fb-4bd9-ab51-85a250bc8db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'Heading-3' and (text() = 'new status ' or . = 'new status ')]</value>
+      <webElementGuid>6cbb18da-7f39-4e64-94fe-9744f6eb8332</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

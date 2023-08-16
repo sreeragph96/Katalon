@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_StoryTaskBug</name>
+   <tag></tag>
+   <elementGuidId>7b50775d-3c48-4cbf-8eb0-44fc462fc3ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addIssue']/div[2]/div[2]/form/div/div/div[2]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-2 > select.form-control.popupControlSelect.mb-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0d159dee-b224-4ff1-9e43-bbcceb7e42b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control popupControlSelect  mb-2</value>
+      <webElementGuid>894156ed-63a6-46bb-87e7-9b8caf2a1c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>StoryTaskBug</value>
+      <webElementGuid>65046436-d972-4d1d-bc10-39d41db81d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addIssue&quot;)/div[@class=&quot;module_innerpopup module_bodypop modal-popup&quot;]/div[@class=&quot;module_body&quot;]/form[1]/div[@class=&quot;card-body p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2&quot;]/select[@class=&quot;form-control popupControlSelect  mb-2&quot;]</value>
+      <webElementGuid>28b7b9d3-3a4d-406e-9490-efa160cac1f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addIssue']/div[2]/div[2]/form/div/div/div[2]/select</value>
+      <webElementGuid>2792754f-762f-4859-9d2d-1b84f6bf2d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>c885e98c-67c2-46e6-8a2e-c7b03a3bd727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::select[1]</value>
+      <webElementGuid>6b82c376-4e2f-40bf-a3d7-51c51e2c7211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]/select</value>
+      <webElementGuid>8730d10c-cd82-4935-8927-7297d404ef68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'StoryTaskBug' or . = 'StoryTaskBug')]</value>
+      <webElementGuid>d1c794fe-8e16-4960-848b-9088ad2df712</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

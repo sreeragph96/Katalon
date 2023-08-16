@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_011_ New project from dropdown with excisting project name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b79f55f8-2098-4fb9-b4af-997d7649a636</testCaseGuid>
+</TestCaseEntity>

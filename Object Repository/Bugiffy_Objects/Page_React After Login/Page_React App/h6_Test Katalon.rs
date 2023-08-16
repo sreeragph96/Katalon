@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Test Katalon</name>
+   <tag></tag>
+   <elementGuidId>66f1e13d-3687-4d4f-b677-b01c5d1e88e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td:nth-of-type(2) > h6.mb-0.text-sm.author_name.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div[5]/div[2]/div/table/tbody/tr[2]/td[2]/h6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>7220462c-f505-4730-8d71-c236f386d849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-0 text-sm author_name cursor-pointer</value>
+      <webElementGuid>b9a05b20-13ef-416b-aa95-7fea29f91e4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Katalon</value>
+      <webElementGuid>bd14dace-38c9-4adf-be78-822f81d4b161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main_wrapper&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;mainSection&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card my-4 bg-transparent&quot;]/div[@class=&quot;main_board&quot;]/div[@class=&quot;leftBoard&quot;]/div[@class=&quot;tableDashboard&quot;]/div[@class=&quot;tableMain&quot;]/div[@class=&quot;table-responsive p-0&quot;]/table[@class=&quot;table align-items-center mb-0&quot;]/tbody[1]/tr[2]/td[2]/h6[@class=&quot;mb-0 text-sm author_name cursor-pointer&quot;]</value>
+      <webElementGuid>b32cd5ea-734b-44d2-9d83-c1c8bf6d0e36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div[5]/div[2]/div/table/tbody/tr[2]/td[2]/h6</value>
+      <webElementGuid>4464e11b-ff9d-461b-b37d-e7b0eccf9825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/h6</value>
+      <webElementGuid>0d96a2d4-8237-4883-801c-9c9e567bb88a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Test Katalon' or . = 'Test Katalon')]</value>
+      <webElementGuid>bda78064-9de8-42b5-84a7-b5fd7898bc32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div[5]/div[2]/div[2]/table/tbody/tr[2]/td[2]/h6</value>
+      <webElementGuid>9bc77ab7-0eeb-41cc-83aa-6d7904eaa7e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

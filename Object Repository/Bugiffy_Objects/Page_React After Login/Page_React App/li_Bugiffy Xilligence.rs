@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Bugiffy Xilligence</name>
+   <tag></tag>
+   <elementGuidId>1dc6979e-ec44-4451-a18b-e28900452775</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-items</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='projectDropDownn']/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c1ded2fb-e476-47a7-b26b-798bd6c3781a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-items</value>
+      <webElementGuid>c09bce19-abb2-4118-b89d-973c73223660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Bugiffy Xilligence</value>
+      <webElementGuid>c4a08be6-446b-4bdb-be48-2174232c6474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;projectDropDownn&quot;)/ul[@class=&quot;nav flex-column&quot;]/li[@class=&quot;nav-items&quot;]</value>
+      <webElementGuid>9e1d1685-a427-4c16-8121-f29ebc3c35e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='projectDropDownn']/ul/li</value>
+      <webElementGuid>6a70a3b0-bea3-4464-b4b9-f93a41ec2201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Project'])[1]/following::li[1]</value>
+      <webElementGuid>b372f584-e504-4883-8591-d1d1df337b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bugiffy Xilligence']/parent::*</value>
+      <webElementGuid>c834f62a-78ac-479c-bd81-a498df112679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>42a7334a-aec7-411d-bb57-456465b70d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '   Bugiffy Xilligence' or . = '   Bugiffy Xilligence')]</value>
+      <webElementGuid>5c80686c-93ea-4d47-8921-fd80153368b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

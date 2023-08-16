@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_012_Create Project with Existing key</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52cff1d2-69ab-4eb1-8ef6-a58c5b5f7aad</testCaseGuid>
+</TestCaseEntity>

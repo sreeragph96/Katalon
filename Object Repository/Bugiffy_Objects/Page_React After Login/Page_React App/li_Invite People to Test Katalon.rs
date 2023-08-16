@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Invite People to Test Katalon</name>
+   <tag></tag>
+   <elementGuidId>a886206e-7cb5-4c78-b416-a1e21c277c48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='yourTeam']/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>0409eff8-3f29-49a7-8d0b-3f33a89fe0d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-items</value>
+      <webElementGuid>31c94579-04e9-470d-a751-fbcf52a0cbdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Invite People to Test Katalon</value>
+      <webElementGuid>b546fd33-3d4e-4f78-a397-68aa3050af1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yourTeam&quot;)/div[@class=&quot;dropdown_div&quot;]/ul[@class=&quot;nav flex-column&quot;]/li[@class=&quot;nav-items&quot;]</value>
+      <webElementGuid>bfcd2963-cc60-4de8-82a3-14dc03c7750c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='yourTeam']/div/ul/li</value>
+      <webElementGuid>074dc060-5f9b-4d4f-a7ab-91a414ae8a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SP'])[1]/following::li[1]</value>
+      <webElementGuid>090076e3-7ff1-45dd-8b04-ee1a50339646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li</value>
+      <webElementGuid>4d4f9e10-d72b-40b7-955c-f7cfa452f7b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '   Invite People to Test Katalon' or . = '   Invite People to Test Katalon')]</value>
+      <webElementGuid>e58fa23e-8c67-489b-8e03-0a377fff2c9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

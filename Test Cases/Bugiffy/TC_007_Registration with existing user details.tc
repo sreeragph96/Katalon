@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_007_Registration with existing user details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4da420ac-7715-47ed-91ae-ce34302bfa25</testCaseGuid>
+</TestCaseEntity>

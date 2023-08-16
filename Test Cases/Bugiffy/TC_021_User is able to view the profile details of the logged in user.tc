@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_021_User is able to view the profile details of the logged in user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74120114-804b-468e-9d7e-ff8761260fa1</testCaseGuid>
+</TestCaseEntity>
